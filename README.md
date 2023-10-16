@@ -12,7 +12,8 @@ Bu GitHub deposu, "Derin Öğrenme" dersi için materyalleri içermektedir. Bu d
 - Makine Öğrenmesi tanımı ve amaçları
 - Makine Öğrenmesi ve Derin Öğrenme Uygulamaları için Gereksinimler
 - Regresyon Modelleri Anlatımı ve Uygulaması
-- 
+- Örnek Uygulama - [Week #1 - YAZ20411_Linear_Regression_Models.ipynb](Week%20%231/YAZ20411_Linear_Regression_Models.ipynb)
+
 
 ### Hafta 2: Decision Tree, Random Forest ve Support Vector Regresyonu
 
