@@ -1,6 +1,6 @@
 # Derin Öğrenme (Deep Learning) Dersi README
 
-![Deep Learning](deep_learning_logo.png)
+![Deep Learning](deep_learning_logo.jpg)
 
 Bu GitHub deposu, "Derin Öğrenme" dersi için materyalleri içermektedir. Bu ders, temel derin öğrenme kavramlarını ve uygulamalarını öğretmek amacıyla tasarlanmıştır. Ders boyunca, öğrenciler derin öğrenmenin temellerini anlayacaklar ve farklı projelerde bu becerileri uygulayacaklardır.
 
