@@ -40,8 +40,8 @@ Bu dersi daha derinlemesine anlamak ve geliştirmek için aşağıdaki kaynaklar
 
 - Hands-on Machine Learning with Scikit Learn, Keras & Tensorflow - [Buzdağı Yayınevi](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli)
 - Deep Learning - [D&R](https://www.dr.com.tr/Kitap/Derin-Ogrenme/Ian-Goodfellow/Egitim-Basvuru/Egitim/urunno=0001874758001)
-- Makine Öğrenmesi Teorik Yönleri ve Python Uygulamaları - [Amazon] (https://www.amazon.com.tr/Kitap-Sinan-U%C4%9Fuz/s?rh=n%3A12466380031%2Cp_27%3ASinan+U%C4%9Fuz)
-- Deep Learning with Python [D&R] (https://www.dr.com.tr/Kitap/Python-ile-Derin-ogrenme/Francois-Chollet/Egitim-ve-Sinav-Kitaplari/Akademik-Kitaplar/Diger/urunno=0001874770001)
+- Makine Öğrenmesi Teorik Yönleri ve Python Uygulamaları - [Amazon](https://www.amazon.com.tr/Kitap-Sinan-U%C4%9Fuz/s?rh=n%3A12466380031%2Cp_27%3ASinan+U%C4%9Fuz)
+- Deep Learning with Python [D&R](https://www.dr.com.tr/Kitap/Python-ile-Derin-ogrenme/Francois-Chollet/Egitim-ve-Sinav-Kitaplari/Akademik-Kitaplar/Diger/urunno=0001874770001)
 - İnternet üzerindeki derin öğrenme eğitim kaynakları ve dökümantasyonlar
 
 ## İletişim
