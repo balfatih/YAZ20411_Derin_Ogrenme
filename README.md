@@ -1,6 +1,6 @@
 # Derin Öğrenme (Deep Learning) Dersi README
 
-![Deep Learning](deep_learning_logo.jpg)
+![Deep Learning](deep_learning.jpg)
 
 Bu GitHub deposu, "Derin Öğrenme" dersi için materyalleri içermektedir. Bu ders, temel derin öğrenme kavramlarını ve uygulamalarını öğretmek amacıyla tasarlanmıştır. Ders boyunca, öğrenciler derin öğrenmenin temellerini anlayacaklar ve farklı projelerde bu becerileri uygulayacaklardır.
 
@@ -8,27 +8,25 @@ Bu GitHub deposu, "Derin Öğrenme" dersi için materyalleri içermektedir. Bu d
 
 ### Hafta 1: Giriş ve Temel Kavramlar
 
-- Derin öğrenmenin tanımı ve önemi
-- Python ve TensorFlow kurulumu
-- İlk derin öğrenme modeli: Yapay Sinir Ağları (Artificial Neural Networks)
+- Yapay Zekâ tanımı ve önemi
+- Makine Öğrenmesi tanımı ve amaçları
+- Makine Öğrenmesi ve Derin Öğrenme Uygulamaları için Gereksinimler
+- Regresyon Modelleri Anlatımı ve Uygulaması
+- 
 
-### Hafta 2: Sinir Ağı Mimarileri
+### Hafta 2: Decision Tree, Random Forest ve Support Vector Regresyonu
 
-- Evrişimli Sinir Ağları (Convolutional Neural Networks - CNN)
-- Uzun Kısa Vadeli Hafıza Ağları (Long Short-Term Memory - LSTM)
-- Derin Geliştirmeli Öğrenme (Deep Reinforcement Learning)
 
-### Hafta 3: Derin Öğrenme Uygulamaları
 
-- Görüntü sınıflandırma
-- Doğal Dil İşleme (NLP) görevleri
-- Otonom sürüş ve oyun oynama
+### Hafta 3: 
+
+
 
 ## Gereksinimler
 
 - Python 3.7 veya üzeri
-- TensorFlow veya PyTorch gibi derin öğrenme kütüphaneleri
-- Jupyter Notebook
+- Sklearn, TensorFlow gibi derin öğrenme kütüphaneleri
+- Jupyter Notebook veya Google Colab
 - Veri kümesi (örnekler, görüntüler, metin, vb.)
 
 ## Örnek Kod ve Projeler
