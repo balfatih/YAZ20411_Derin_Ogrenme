@@ -38,7 +38,8 @@ Her haftanın sonunda, o haftanın içeriğine uygun örnek kodlar ve projeler b
 
 Bu dersi daha derinlemesine anlamak ve geliştirmek için aşağıdaki kaynakları kullanabilirsiniz:
 
-- "Derin Öğrenme" (Deep Learning) kitapları
+- Hands-on Machine Learning with Scikit Learn, Keras & Tensorflow - [Buzdağı Yayınevi](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli)
+- Deep Learning - [D&R](https://www.dr.com.tr/Kitap/Derin-Ogrenme/Ian-Goodfellow/Egitim-Basvuru/Egitim/urunno=0001874758001) https://www.dr.com.tr/Kitap/Derin-Ogrenme/Ian-Goodfellow/Egitim-Basvuru/Egitim/urunno=0001874758001
 - İnternet üzerindeki derin öğrenme eğitim kaynakları ve dökümantasyonlar
 
 ## İletişim
