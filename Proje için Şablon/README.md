@@ -2,7 +2,8 @@
 
 :information_source: **Dersin Kodu:** YAZ20411  
 :information_source: **Dersin Adı:** DERİN ÖĞRENME   
-:information_source: **Dersin Öğretim Elemanı:** DERİN ÖĞRENME   
+:information_source: **Dersin Öğretim Elemanı:** DERİN ÖĞRENME  
+   
 ---
 
 ## Grup Bilgileri
