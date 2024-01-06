@@ -2,7 +2,7 @@
 
 :information_source: **Dersin Kodu:** YAZ20411  
 :information_source: **Dersin Adı:** DERİN ÖĞRENME   
-
+:man: **Dersin Öğretim Elemanı:** ÖĞR. GÖR. DR. FATİH BAL [Github](https://github.com/balfatih) [Web Sayfası](balfatih.github.io)
 ---
 
 ## Grup Bilgileri
