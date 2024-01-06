@@ -2,7 +2,7 @@
 
 :information_source: **Dersin Kodu:** YAZ20411  
 :information_source: **Dersin Adı:** DERİN ÖĞRENME   
-:man: **Dersin Öğretim Elemanı:** ÖĞR. GÖR. DR. Fatih BAL 
+:information_source: **Dersin Öğretim Elemanı:** DERİN ÖĞRENME   
 ---
 
 ## Grup Bilgileri
