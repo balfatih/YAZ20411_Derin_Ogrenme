@@ -34,4 +34,35 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 - **/public**
   - `index.html`
 - `README.md`
-- `LICENSE`
+- `LICENSE`  
+
+
+---
+
+## Kurulum
+
+Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin. Gerekli bağımlılıkların nasıl yükleneceği, konfigürasyon adımları vb. bu bölümde bulunabilir.
+
+---
+
+## Kullanım
+
+Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, komut satırı komutları, kullanıcı arayüzüne dair açıklamalar vb.
+
+---
+
+## Katkılar
+
+Eğer dışarıdan katkı almayı düşünüyorsanız, katkıda bulunma yönergelerini belirtin.
+
+---
+
+## Lisans
+
+Projenizin lisans türünü ve lisans dosyasının nerede bulunacağını belirtin.
+
+---
+
+## İletişim
+
+Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
