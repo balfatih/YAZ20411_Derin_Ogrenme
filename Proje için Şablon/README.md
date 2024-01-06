@@ -1,6 +1,6 @@
 # Proje Başlığı
 
-Dersin Kodu: YAZ20411  
+:round_pushpin: Dersin Kodu: YAZ20411  
 Dersin Adı: DERİN ÖĞRENME  
 Proje Başlığı: PROJE_BASLIĞI  
 
