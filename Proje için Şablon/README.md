@@ -25,13 +25,13 @@ Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsam�
 ## Proje Dosya Yapısı
 
 Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-./src
-./components
-	.Component1.js
-	.Component2.js
-./utils
-	.utility.js
-./public
-.index.html
-.README.md
-.LICENSE
+- **/src**
+  - **/components**
+    - `Component1.js`
+    - `Component2.js`
+  - **/utils**
+    - `utility.js`
+- **/public**
+  - `index.html`
+- `README.md`
+- `LICENSE`
