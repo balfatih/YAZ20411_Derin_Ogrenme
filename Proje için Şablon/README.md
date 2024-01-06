@@ -1,7 +1,7 @@
 # Proje Başlığı
 
-:information_source: **Dersin Kodu:** YAZ20411  
-:information_source: **Dersin Adı:** DERİN ÖĞRENME   
+:information_source: **Dersin Kodu:** [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
+:information_source: **Dersin Adı:** [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
 :information_source: **Dersin Öğretim Elemanı:** Öğr. Gör. Dr. Fatih BAL  [Github](https://github.com/balfatih)   |    [Web Sayfası](https://balfatih.github.io/)
    
 ---
